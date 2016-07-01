@@ -4,7 +4,7 @@ An intelligence background-correction algorithm for highly fluorescent sample in
 
 ## Installation
 
-### Intall using devtools from github
+### Install using devtools from github
 
 ```r
 library(devtools); 
